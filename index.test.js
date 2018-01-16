@@ -1,4 +1,5 @@
 const sku = require('./index');
+
 test(
     `
     sku([
