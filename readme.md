@@ -1,11 +1,4 @@
-# sku
-
-* 使用 npm  下载包
-```
-npm i --save zhf.sku
-```
-
-* 案例
+# 多规格
 ```
 const sku = require('zhf.sku');
 
