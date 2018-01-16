@@ -1,4 +1,4 @@
-const sku = require('./index');
+const fn = require('./index');
 test('目标数组是否转为了结果数组', () => {
     // 目标数组(一维数组和二维数组的长度都是不固定的)
     const target = [
@@ -36,7 +36,7 @@ test('目标数组是否转为了结果数组', () => {
         ['c', 3, '88'],
         ['c', 3, '99'],
     ];
-    // expect(sku(target)).toBe(result); // 测试其他用这个
-    expect(sku(target)).toEqual(result); // 测试对象和数组
+    // expect(fn(target)).toBe(result); // 测试其他用这个
+    expect(fn(target)).toEqual(result); // 测试对象和数组
 });
 
