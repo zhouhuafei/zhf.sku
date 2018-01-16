@@ -1,0 +1,2 @@
+const sku = require('./index');
+

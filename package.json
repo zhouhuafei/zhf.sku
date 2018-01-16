@@ -1,0 +1,22 @@
+{
+  "name": "zhf.sku",
+  "version": "1.0.0",
+  "description": "no description",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouhuafei/zhf.sku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhouhuafei/zhf.sku/issues"
+  },
+  "homepage": "https://github.com/zhouhuafei/zhf.sku#readme",
+  "devDependencies": {
+    "jest": "^22.1.1"
+  }
+}
