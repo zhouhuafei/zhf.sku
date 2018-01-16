@@ -1,5 +1,14 @@
 # sku
+
+* 使用 npm  下载包
 ```
+npm i --save-dev zhf.sku
+```
+
+* 案例
+```
+const sku = require('zhf.sku');
+
 // 目标数组target(一维数组和二维数组的长度都是不固定的)
 const target = [
     ['a', 'b', 'c'], // 一级规格
@@ -7,6 +16,7 @@ const target = [
     ['77', '88', '99'], // 三级规格
 ];
 
+// 函数调用
 const result = sku(target);
 
 // 结果数组result
