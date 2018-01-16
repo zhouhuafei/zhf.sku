@@ -2,7 +2,7 @@
 
 * 使用 npm  下载包
 ```
-npm i --save-dev zhf.sku
+npm i --save zhf.sku
 ```
 
 * 案例
