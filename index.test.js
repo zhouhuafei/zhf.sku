@@ -39,4 +39,3 @@ test('目标数组是否转为了结果数组', () => {
     // expect(fn(target)).toBe(result); // 测试其他用这个
     expect(fn(target)).toEqual(result); // 测试对象和数组
 });
-
