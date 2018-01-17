@@ -1,4 +1,4 @@
-const sku = require('./index');
+const sku = require('../dist/index.min');
 
 test(
     `
