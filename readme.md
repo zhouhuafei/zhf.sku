@@ -1,4 +1,4 @@
-# 多规格
+# sku多规格
 ```
 const sku = require('zhf.sku');
 
